@@ -1,0 +1,4 @@
+#
+# system.prop for xtab79qci
+#
+ro.bootloader.mode=download
